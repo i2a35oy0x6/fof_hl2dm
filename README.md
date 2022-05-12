@@ -1,5 +1,5 @@
 # fof_hl2dm
-HL2DM for Fistful of Frags
+Fistful of Frags HL2DM Mode
 
 # Requirements
 SourceMod 1.10 or later
